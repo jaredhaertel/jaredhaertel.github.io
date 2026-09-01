@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Project 0: Becoming friends with my camera"
+date:   2026-08-30 18:20:02 -0700
+categories: cs180
+---
+### **Part 1:** Selfie: The Wrong Way vs. The Right Way
+<div style="display: flex; gap: 2%; justify-content: space-between;">
+  <figure style="width: 49%; margin: 0;">
+    <img src="/assets/images/face_far_away.jpg" alt="Face Far Image" style="margin: 0 auto 0.5em;">
+    <figcaption>63 mm from further away</figcaption>
+  </figure>
+
+  <figure style="width: 49%; margin: 0;">
+    <img src="/assets/images/face_close_up.jpg" alt="Face Close Image" style="margin: 0 auto 0.5em;">
+    <figcaption>21 mm up close</figcaption>
+  </figure>
+</div>
+
+The first photo is much better than the second for a few reasons. For the latter photo, the imaginary horizontal lines made by my brow, eyes, and mouth converge much closer to the center of the image than in the second, distorting the features on the right side of my face to appear larger than the left side (relative to the observer). Furthermore, because the camera is closer to my face, objects of similar size but at different depth get exaggerated making closer objects appear much larger such as my nose compared to my ear.
+
+### **Part 2:** Architectural Perspective Compression
+
+<div style="display: flex; gap: 2%; justify-content: space-between;">
+  <figure style="width: 49%; margin: 0;">
+    <img src="/assets/images/building_far_away.jpg" alt="Building Far Image" style="margin: 0 auto 0.5em;">
+    <figcaption>60 mm from further away</figcaption>
+  </figure>
+ 
+  <figure style="width: 49%; margin: 0;">
+    <img src="/assets/images/building_close_up.jpg" alt="Building Close Image" style="margin: 0 auto 0.5em;">
+    <figcaption>24 mm up close</figcaption>
+  </figure>
+</div>
+
+Similar to the previous reasoning, the imaginary parallel lines to the ground converge at a point closer to the center of the image in the second photo, creating a greater sense of depth. If on each image one where to draw a grid created by the horizontal lines and vertical lines parallel to the columns, then the squares would get smaller in area from left to right but at a much greater rate on the second image. This makes repeated details like the windows have a greater difference in size throughout the image, making it look less flattened than the first image.
+
+
+### **Part 3:** The Dolly Zoom
+
+<figure style="width: 50%; margin: 0 auto;">
+  <img src="/assets/images/snoopy_dolly.gif" alt="Esnupito">
+  <figcaption>Snoopy is flabbergasted</figcaption>
+</figure>
+
