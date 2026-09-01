@@ -14,7 +14,7 @@ categories: cs180
   
   <figure style="width: 49%; margin: 0;">
     <img src="/assets/images/face_close_up.jpg" alt="Face Close Image" style="margin: 0 auto 0.5em;">
-    <figcaption>21 mm up close</figcaption>
+    <figcaption>21 mm from up close</figcaption>
   </figure>
 </div>
 
@@ -30,7 +30,7 @@ The first photo is much better than the second for a few reasons. For the latter
   
   <figure style="width: 49%; margin: 0;">
     <img src="/assets/images/building_close_up.jpg" alt="Building Close Image" style="margin: 0 auto 0.5em;">
-    <figcaption>24 mm up close</figcaption>
+    <figcaption>24 mm from up close</figcaption>
   </figure>
 </div>
 
