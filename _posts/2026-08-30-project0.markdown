@@ -18,7 +18,7 @@ categories: cs180
   </figure>
 </div>
 
-The first photo is much better than the second for a few reasons. For the latter photo, the imaginary horizontal lines made by my brow, eyes, and mouth converge much closer to the center of the image than in the second, distorting the features on the right side of my face to appear larger than the left side (relative to the observer). Furthermore, because the camera is closer to my face, objects of similar size but at different depth get exaggerated making closer objects appear much larger such as my nose compared to my ear. The reason this looks more natural is because we usually don't see faces up close, so we are used to a particular ratios of different facial features.
+The first photo is much better than the second for a few reasons. For the latter photo, the imaginary horizontal lines made by my brow, eyes, and mouth converge much closer to the center of the image than in the second, distorting the features on the right side of my face to appear larger than the left side (relative to the observer). Furthermore, because the camera is closer to my face, objects of similar size but at different depth get exaggerated making closer objects appear much larger such as my nose compared to my ear. Our minds are used to particular ratios of different facial features, and so as the up close image changes these ratios, it looks more unnatural.
 
 ### **Part 2:** Architectural Perspective Compression
 
