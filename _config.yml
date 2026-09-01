@@ -27,9 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jaredhaertel
 
 # Build settings
-theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 hide_search: true
 # Exclude from processing.
