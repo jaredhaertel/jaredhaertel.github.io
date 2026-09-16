@@ -31,7 +31,6 @@ remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
 hide_search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
